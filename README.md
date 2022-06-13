@@ -9,7 +9,7 @@ I am also interested in new emerging technologies like quantum computing and blo
 
 ## Profile
 
-A motivated Computer Science graduate, passionate about Data Analytics and Engineering. 
-I have worked in the roles of Software Engineer, Data Scientist and Machine Learning Engineer, individually as well part of a team. 
-I have hands on experience on data analysis using various Data Science frameworks in python & R and have researched and implemented 
-various Computer Vision applications using Machine Learning and Deep Learning.
+A data-driven Data Scientist with a year of industrial experience in IT Research and Development on 
+handling and managing the overall development cycle of the proposed modules. 
+Equipped with ability to work with AWS ECR for Continuous Integration and Deployment, Data Science 
+frameworks in Python & R for Product Development & Pattern Recognition, PowerBI for designing Reports and Dashboards.
