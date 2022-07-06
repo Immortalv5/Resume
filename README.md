@@ -61,3 +61,5 @@ frameworks in Python & R for Product Development & Pattern Recognition, PowerBI 
 
 > In the journey of finding my passion in computer science, I chose AI and Robotics in which I worked on Behavioural and Cognitive Robotics that got 
 > and got my interest in quantum physics. 
+
+- I studied AI and robotics in the search for this behavioral and cognitive information
